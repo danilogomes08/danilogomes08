@@ -1,16 +1,41 @@
-## Hi there 👋
+# 💻 Danilo Gomes | Desenvolvedor Front-End  
 
-<!--
-**danilogomes08/danilogomes08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou um Desenvolvedor Front-End formado pela FATEC Santos, apaixonado por criar interfaces dinâmicas, funcionais e atraentes para web. Busco transformar ideias em experiências digitais que encantam e entregam valor.  
 
-Here are some ideas to get you started:
+🚀 **Habilidades:**  
+🎨 Elementor, WooCommerce  
+🖥️ HTML, CSS, SASS, Bootstrap  
+⚡ JavaScript, React  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque  
+
+### 🏗️ HTML, CSS e JavaScript  
+🔹 [Cobuild](https://cobuild-tau.vercel.app/) | [Código](https://github.com/danilogomes08/cobuild)  
+🔹 [Medidove](https://medidove-nine.vercel.app/) | [Código](https://github.com/danilogomes08/medidove)  
+🔹 [Softwerk](https://softwerk.vercel.app/) | [Código](https://github.com/danilogomes08/softwerk)  
+🔹 [Travel](https://angular-ivy-suetdp.stackblitz.io/) | [Código](https://github.com/danilogomes08/travel)  
+
+### 🎨 Bootstrap  
+🔹 [Interact](https://interact-delta.vercel.app/) | [Código](https://github.com/danilogomes08/Interact)  
+
+### 🎭 SASS  
+🔹 [CozyHouse](https://cozy-house-iota.vercel.app/) | [Código](https://github.com/danilogomes08/cozy-house)  
+
+### ⚛️ React  
+🔹 [Elenex](https://elenex.vercel.app/) | [Código](https://github.com/danilogomes08/elenex)  
+🔹 [Portfolio](https://portfolio-react-seven-beta.vercel.app/) | [Código](https://github.com/danilogomes08/portfolio-react)  
+🔹 [Pokedex v2](https://pokedexv2-lake.vercel.app/) | [Código](https://github.com/danilogomes08/pokedexv2)  
+🔹 [Weather](https://danilogomes08.github.io/weather/) | [Código](https://github.com/danilogomes08/weather)  
+🔹 [Pokedex v1](https://danilogomes08.github.io/pokedex/) | [Código](https://github.com/danilogomes08/pokedex)  
+
+### 🌐 WordPress / Elementor  
+🔹 [Delta Segurança](https://deltaseguranca.com.br/)  
+🔹 [Digitaliano](https://digitaliano.com.br/)  
+🔹 [Maximus Engenharia](https://maximusengenhariainovacao.com.br/)  
+🔹 [Carvalho Nascimento](https://carvalhonascimento.adv.br/)  
+🔹 [Katy Lessons](https://katylessons.com.br/)  
+🔹 [Sussurros do Invisível](https://sussurrosdoinvisivel.com/)  
+
+## 📬 Vamos conectar?  
+🔗 [LinkedIn](https://www.linkedin.com/in/danilo-gms/)  
+🌍 [Portfólio](https://portfolio-react-seven-beta.vercel.app/)  
