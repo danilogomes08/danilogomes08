@@ -32,7 +32,7 @@ Olá! Sou um Desenvolvedor Front-End formado pela FATEC Santos, apaixonado por c
 🔹 [IPS Clinic](https://ipsclinic.com.br/)  
 🔹 [CEAPsi](https://psicologoemsantos.com.br/)  
 🔹 [Arrivo](http://arrivo.co.it/)  
-🔹 [Crownline Construction](https://crownlineconstructiongroup.com/)
+🔹 [Crownline Construction](https://crownlineconstructiongroup.com/)  
 🔹 [Digitaliano](https://digitaliano.com.br/)  
 🔹 [Maximus Engenharia](https://maximusengenhariainovacao.com.br/)  
 🔹 [Katy Lessons](https://katylessons.com.br/)  
