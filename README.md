@@ -29,13 +29,14 @@ Olá! Sou um Desenvolvedor Front-End formado pela FATEC Santos, apaixonado por c
 🔹 [Pokedex v1](https://danilogomes08.github.io/pokedex/) | [Código](https://github.com/danilogomes08/pokedex)  
 
 ### 🌐 WordPress / Elementor  
-🔹 [Delta Segurança](https://deltaseguranca.com.br/)  
+🔹 [IPS Clinic](https://ipsclinic.com.br/)
+🔹 [CEAPsi](https://psicologoemsantos.com.br/)
+🔹 [Arrivo](http://arrivo.co.it/)]
+🔹 [Crownline Construction](https://crownlineconstructiongroup.com/)
 🔹 [Digitaliano](https://digitaliano.com.br/)  
 🔹 [Maximus Engenharia](https://maximusengenhariainovacao.com.br/)  
-🔹 [Carvalho Nascimento](https://carvalhonascimento.adv.br/)  
 🔹 [Katy Lessons](https://katylessons.com.br/)  
 🔹 [Sussurros do Invisível](https://sussurrosdoinvisivel.com/)  
 
 ## 📬 Vamos conectar?  
 🔗 [LinkedIn](https://www.linkedin.com/in/danilo-gms/)  
-🌍 [Portfólio](https://portfolio-react-seven-beta.vercel.app/)  
