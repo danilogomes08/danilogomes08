@@ -23,7 +23,6 @@ Olá! Sou um Desenvolvedor Front-End formado pela FATEC Santos, apaixonado por c
 
 ### ⚛️ React  
 🔹 [Elenex](https://elenex.vercel.app/) | [Código](https://github.com/danilogomes08/elenex)  
-🔹 [Portfolio](https://portfolio-react-seven-beta.vercel.app/) | [Código](https://github.com/danilogomes08/portfolio-react)  
 🔹 [Pokedex v2](https://pokedexv2-lake.vercel.app/) | [Código](https://github.com/danilogomes08/pokedexv2)  
 🔹 [Weather](https://danilogomes08.github.io/weather/) | [Código](https://github.com/danilogomes08/weather)  
 🔹 [Pokedex v1](https://danilogomes08.github.io/pokedex/) | [Código](https://github.com/danilogomes08/pokedex)  
